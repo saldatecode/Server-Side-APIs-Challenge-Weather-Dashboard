@@ -6,3 +6,4 @@
 
 ### If no city is found it will alert the user. Every time the user searches for a city, the data will be stored and can be reused.
 
+![image](https://user-images.githubusercontent.com/104797672/199342033-5f5e7921-4f9f-45ec-a64c-e804e4e3d1c7.png)
