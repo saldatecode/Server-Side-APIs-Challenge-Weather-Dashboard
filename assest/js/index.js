@@ -13,14 +13,9 @@ function findCity() {
 
                 $("#city-list").append('<button type="button" class="list-group-item list-group-item-light list-group-item-action city-name">' + cityName);
 
-                const lat = data.coord.lat;
-                const lon = data.coord.lon;
+                localStorage.setItem(cityName, data.coord.lat + " " + data.coord.lon);
 
-                var latLonPair = lat.toString() + " " + lon.toString();
-
-                localStorage.setItem(cityName, latLonPair);
-
-                apiURL = "https://api.openweathermap.org/data/2.5/onecall?lat=" + lat + "&lon=" + lon + "&exclude=minutely,hourly&units=imperial&appid=4e12934b1cd60cb4bb4b3d215ad0c35d";
+                apiURL = "https://api.openweathermap.org/data/2.5/onecall?lat=" + data.coord.lat + "&lon=" + data.coord.lon + "&exclude=minutely,hourly&units=imperial&appid=4e12934b1cd60cb4bb4b3d215ad0c35d";
 
                 fetch(apiURL).then(function (newResponse) {
                     if (newResponse.ok) {
