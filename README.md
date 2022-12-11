@@ -143,7 +143,11 @@ Project Link: [https://github.com/danpoggetti/work-day-scheduler]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Github Repo
+https://github.com/saldatecode/Server-Side-APIs-Challenge-Weather-Dashboard
 
+## Deployed Site
+https://saldatecode.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -161,16 +165,3 @@ I want to acknowledge the many great and vast resouces that aided me in the work
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors-anon/danpoggetti/work-day-scheduler?style=for-the-badge
-[contributors-url]: https://github.com/danpoggetti/work-day-scheduler/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/danpoggetti/work-day-scheduler?style=for-the-badge
-[forks-url]: https://github.com/danpoggetti/work-day-scheduler/network/members
-[stars-shield]: https://img.shields.io/github/stars/danpoggetti/work-day-scheduler?style=for-the-badge
-[stars-url]: https://github.com/danpoggetti/work-day-scheduler/stargazers
-[issues-shield]: https://img.shields.io/github/issues/danpoggetti/work-day-scheduler?style=for-the-badge
-[issues-url]: https://github.com/danpoggetti/work-day-scheduler/issues
-[license-shield]: https://img.shields.io/github/license/danpoggetti/work-day-scheduler?style=for-the-badge
-[license-url]: https://github.com/danpoggetti/work-day-scheduler/blob/main/LICENSE
-[product-screenshot]: images/screenshot.png
